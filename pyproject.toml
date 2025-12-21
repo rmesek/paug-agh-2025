@@ -1,0 +1,17 @@
+[project]
+name = "paug-agh-2025"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "keras>=3.11.3",
+    "keras-tuner>=1.4.7",
+    "matplotlib>=3.10.7",
+    "notebook>=7.4.7",
+    "numpy>=2.3.3",
+    "scikeras>=0.13.0",
+    "scikit-learn>=1.7.2",
+    "tensorflow>=2.20.0",
+    "tf-keras-vis>=0.8.7",
+    "tqdm>=4.67.1",
+]
